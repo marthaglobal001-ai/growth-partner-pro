@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
+import logo from "@/assets/logo.png";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -35,9 +36,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between">
         {/* Logo */}
         <button onClick={() => scrollTo("hero")} className="flex items-center gap-2">
-          <div className="w-9 h-9 rounded-lg bg-gradient-green flex items-center justify-center shadow-brand-green">
-            <span className="text-primary-foreground font-display font-bold text-sm">WG</span>
-          </div>
+          <img src={logo} alt="WebGenyx Sales logo" className="w-9 h-9 rounded-lg object-cover" />
           <span className="font-display font-bold text-lg text-primary-foreground">
             WebGenyx <span className="text-brand-green">Sales</span>
           </span>
