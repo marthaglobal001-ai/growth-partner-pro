@@ -23,7 +23,7 @@ const problems = [
     icon: Users,
     title: "Losing Customers to Competitors",
     description:
-      "Competitors with strong digital presence capture your potential customers online — before they even walk into your store. The gap widens every month you wait.",
+       "Competitors with strong digital presence capture your potential customers online — before they even find your business. The gap widens every month you wait.",
   },
   {
     icon: Shield,
@@ -53,7 +53,7 @@ const Problem = () => {
             <span className="text-gradient-green">Struggle Online</span>
           </h2>
           <p className="text-primary-foreground/65 text-lg max-w-2xl mx-auto">
-            These are the exact challenges holding back supermarkets and retail businesses in Nigeria — and we know exactly how to fix them.
+            These are the exact challenges holding back businesses in Nigeria — and we know exactly how to fix them.
           </p>
         </div>
 

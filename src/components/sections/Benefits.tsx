@@ -4,8 +4,8 @@ const benefits = [
   {
     icon: TrendingUp,
     value: "3x",
-    label: "More Walk-In Customers",
-    description: "Businesses optimized by us see an average 3x increase in foot traffic within 90 days.",
+    label: "More Customers",
+    description: "Businesses optimized by us see an average 3x increase in customer traffic within 90 days.",
   },
   {
     icon: MapPin,
@@ -17,7 +17,7 @@ const benefits = [
     icon: Shield,
     value: "5★",
     label: "Stronger Online Credibility",
-    description: "A polished online presence makes customers trust you before they ever step through your door.",
+    description: "A polished online presence makes customers trust you before they ever contact you.",
   },
   {
     icon: Heart,

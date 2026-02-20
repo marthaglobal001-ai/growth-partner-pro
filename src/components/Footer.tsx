@@ -20,7 +20,7 @@ const Footer = () => {
               </span>
             </div>
             <p className="text-primary-foreground/55 text-sm leading-relaxed max-w-xs mb-6">
-              Nigeria's growth-focused digital marketing agency helping supermarkets, retail stores, and local businesses dominate online.
+              Nigeria's growth-focused digital marketing agency helping businesses of all types dominate online.
             </p>
             <div className="flex gap-3">
               <a

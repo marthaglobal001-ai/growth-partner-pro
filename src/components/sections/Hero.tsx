@@ -35,7 +35,7 @@ const Hero = () => {
 
           {/* Subtext */}
           <p className="text-lg md:text-xl text-primary-foreground/75 leading-relaxed mb-10 max-w-2xl">
-            WebGenyx Sales helps supermarkets, retail stores, and local businesses transform their digital presence — driving more walk-in customers, higher Google rankings, and measurable revenue growth.
+            WebGenyx Sales helps businesses of all types transform their digital presence — driving more customers, higher Google rankings, and measurable revenue growth.
           </p>
 
           {/* CTAs */}
